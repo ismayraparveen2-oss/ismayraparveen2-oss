@@ -1,16 +1,76 @@
-## Hi there 👋
+## Hi, I'm Ismayra 👋
 
-<!--
-**ismayraparveen2-oss/ismayraparveen2-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech CSE (Data Science)** student
+💡 Aspiring **Software Engineer | Data Analyst | AI Enthusiast**
+🚀 Building skills through projects, consistency, and open learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning Right Now
+
+* Python (DSA, OOP, problem-solving)
+* Data Analysis (Pandas, NumPy, Matplotlib)
+* Git & GitHub (open-source basics)
+* Fundamentals of Machine Learning
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+* Python
+* C++
+* HTML, CSS
+
+**Tools & Platforms**
+
+* Git, GitHub
+* VS Code
+* Canva
+
+**Core Concepts**
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Data Cleaning & Analysis
+
+---
+
+### 📌 Featured Focus Areas
+
+* 📊 Data Analysis & Visualization
+* 🤖 AI & Machine Learning (beginner → intermediate)
+* 🧠 Problem Solving & DSA
+* 🌍 Open Source Contributions (learning phase)
+
+---
+
+### 🎯 Goals for 2026
+
+* Build a strong GitHub project portfolio
+* Contribute to open-source projects
+* Secure a tech internship or freelance role
+* Start earning consistently through tech skills
+* Move closer to MAANG-level engineering skills
+
+---
+
+### 🤝 Open to Collaborations
+
+* Beginner-friendly open-source projects
+* Hackathons & coding challenges
+* Data / Python-based projects
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: [https://github.com/ismayraparveen2-oss](https://github.com/ismayraparveen2-oss)
+
+---
+
+⚡ **Fun fact:** I value discipline and consistency more than motivation.
+
+🛠️ *This profile will keep evolving as I grow.*
+
